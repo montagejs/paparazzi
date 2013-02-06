@@ -2,7 +2,7 @@
     "name": "paparazzi",
     "version": "0.1.0",
     "dependencies": {
-        "montage" : "0.12.x",
-        "shuriken" : "*"
+        "montage" : "0.12.3",
+        "shuriken" : "0.0.0"
     }
 }
