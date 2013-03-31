@@ -4,5 +4,7 @@
     "dependencies": {
         "montage" : "0.12.4",
         "shuriken" : "0.0.0"
-    }
+    },
+    "bundle":["main.reel"],
+    "shard": 1
 }
