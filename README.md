@@ -10,9 +10,3 @@ If you have npm installed already simply type
 ```
 npm install
 ```
-
-If do not have npm you can use assist.sh script. This will download montage as a sibling to your application's directory
-and create a symlink in the node_modules directory of the application.
-```
-./assist.sh link montage
-```
